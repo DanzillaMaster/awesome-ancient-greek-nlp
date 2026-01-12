@@ -1,1 +1,0 @@
-# awesome-ancient-greek-nlp
